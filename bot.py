@@ -3,7 +3,7 @@ from datetime import datetime
 import pytz
 
 # APNA TOKEN AUR CHAT_ID YAHAN DAALNA HAI
-BOT_TOKEN = "8659387794:AAFxUOzlsYGsrB8EjZXQW0TY3CFtqXIs4_Q"
+BOT_TOKEN = "8659387794:AAHpSaR1eQDULrSLaKs1FvIBXdh-JuLYIyk"
 CHAT_ID = "7755010336" 
 TRADE = "Electronic Mechanic"
 STATE = "Maharashtra"
